@@ -1,7 +1,7 @@
 html {
     box-sizing: border-box;
     font-family: 'Playfair Display', serif;
-    background-image: url('../Asilom - Portfolio/img/bg.jpg');
+    background-image: url('./bg.jpg');
 }
 
 .main-container {
